@@ -27,5 +27,5 @@ Categories: Added, Changed, Deprecated, Removed, Fixed, and Security.
   Message
 
 
-[Unreleased]: https://github.com/railtoolkit/PROJEKT/compare/v0.1.0...master
-[0.1.0]: https://github.com/railtoolkit/PROJEKT/releases/tag/v0.1.0
+[Unreleased]: https://github.com/railtoolkit/TrainBlockingTimes.jl/compare/v0.1.0...master
+[0.1.0]: https://github.com/railtoolkit/TrainBlockingTimes.jl/releases/tag/v0.1.0
