@@ -1,0 +1,27 @@
+{
+  "title": "",
+  "version": "%%[SCRIPT]",
+  "creators": [
+    {
+      "orcid": "0000-0000-0000-0000",
+      "affiliation": "University", 
+      "name": "Doe, John"
+    }
+  ],
+  "description": "Some data or a package",
+  "keywords": [
+    "railway",
+    "railroad"
+  ],
+  "license": {
+    "id": "ISC"
+  },
+  "language": "eng",
+  "access_right": "open", 
+  "upload_type": "software",
+  "communities": [
+    {
+      "identifier": "railtoolkit"
+    }
+  ]
+}

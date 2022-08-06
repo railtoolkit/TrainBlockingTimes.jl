@@ -1,0 +1,27 @@
+# YAML 1.2
+---
+cff-version: 1.2.0
+title: PROJEKT
+message: If you use this software, please cite both the proceedings from preferred-citation and the software itself.
+type: dataset
+authors:
+  - given-names: John
+    family-names: Doe
+    email: jd@university.ac
+    orcid: https://orcid.org/0000-0000-0000-0000
+    affiliation: University
+repository: https://github.com/railtoolkit/PROJEKT
+url: https://www.railtoolkit.org/projects/PROJEKT
+license: ISC
+version: v0.1.0
+preferred-citation:
+  authors:
+    - given-names: John
+      family-names: Doe
+      orcid: https://orcid.org/0000-0000-0000-0000
+  doi: 10.24355/dbbs.084-202204140847-0
+  title: Howto use OpenSource in OpenScience
+  type: proceedings
+  year: 2000
+  publisher:
+    name: Conference
